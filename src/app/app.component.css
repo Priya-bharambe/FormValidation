@@ -1,0 +1,10 @@
+.error {
+    color: red;
+    }
+    
+.bg{
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    padding: 80px;
+}
